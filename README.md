@@ -5,6 +5,7 @@
 ## 
 
 <div align="center">All things nine lives for the public (not source code)</div>
+<<div align="center">This includes version archives and pre-patch builds</div>>
 
 <br>
 <div align="center">
