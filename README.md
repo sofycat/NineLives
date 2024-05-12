@@ -16,8 +16,5 @@
 	
 <br>
 
-<p align="center">
-<a href="https://discord.gg/YH9UYRgQxp"><img alt="Discord" src="assets/discord.png"></a>
-</p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0EIFPZ)
