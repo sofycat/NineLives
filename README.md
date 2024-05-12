@@ -4,10 +4,9 @@
 
 ## 
 
-<div align="center">All things nine lives for the public (not source code)</div>
-<<div align="center">This includes version archives and pre-patch builds</div>>
+<div align="center">All things nine lives for the public (not source code) <p>
+This includes version archives and pre-patch builds</div>
 
-<br>
 <div align="center">
 <p align="center">
 <a href="https://sofycodes.itch.io/nine-lives"><img alt="ItchIO" src="https://img.shields.io/badge/itch.io-fa5c5c?&style?&style=for-the-badge&logo=itch.io&logoColor=white&alt=youtube style="margin-bottom: 5px;"></a>
