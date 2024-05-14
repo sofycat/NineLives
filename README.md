@@ -7,17 +7,11 @@
 </p>
 <h1></h1>
 <p align="center">This is a place for archives and pre-patched builds</p>
+ 
 </div>
 
-> [!IMPORTANT]
-> This is not the Nine Lives source code!
-
 <br>
 <br>
-
-- ### [Download the .yymps](https://github.com/sofycodes/consoleMe/releases/)
-
-
 
 <details>
 	
@@ -35,6 +29,9 @@
 <p></p>
 </div>
 </details>
+
+
+- ### [Download the lastest build](https://github.com/sofycodes/consoleMe/releases/)
 
 #
 <br>
