@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://sofycodes.itch.io/nine-lives"><img alt="ItchIO" src="https://img.shields.io/badge/itch.io-fa5c5c?&style?&style=for-the-badge&logo=itch.io&logoColor=white&alt=youtube style="margin-bottom: 5px;"></a>
 <a href="https://discord.gg/YH9UYRgQxp"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da?&style?&style=for-the-badge&logo=discord&logoColor=white&alt=discord style="margin-bottom: 5px;"></a>
-<a href="https://ko-fi.com/sofydev"><img alt="Kofi" src="https://img.shields.io/badge/KoFi-FF5E5B?&style?&style=for-the-badge&logo=ko-fi&logoColor=white&alt=ko-fi style="margin-bottom: 5px;"></a>
+<a href="https://ko-fi.com/sofycat"><img alt="Kofi" src="https://img.shields.io/badge/KoFi-FF5E5B?&style?&style=for-the-badge&logo=ko-fi&logoColor=white&alt=ko-fi style="margin-bottom: 5px;"></a>
 </p>
 <h1></h1>
 <p align="center">This is a place for archives and pre-patched builds</p>
