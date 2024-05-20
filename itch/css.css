@@ -268,16 +268,10 @@
   max-width: 450px;
   margin: auto !important;
 }
-#download{
-  border-bottom: 2px dashed #fff6;
-}
 #download,
 #download + .buy_row,
 .buy_row + .uploads {
-  background: var(--itchio_bg2_sub);
-  padding: .5em 1rem;
-  margin: 0 auto;
-  max-width: 450px;
+
 }
 #download + .buy_row {
   padding-top: 1em;
