@@ -31,7 +31,7 @@
 </details>
 
 
-- ### [Download the lastest build](https://github.com/sofycodes/consoleMe/releases/)
+- ### [Download the lastest build](https://github.com/sofycodes/NineLives/releases/)
 
 #
 <br>
